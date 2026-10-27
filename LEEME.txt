@@ -1,0 +1,23 @@
+PUBLICAR EN GGCOLINAS.COM
+
+Este paquete mantiene la presentación, las animaciones, los recursos y el CV final.
+Está preparado para el repositorio GitHub Pages gigicolinas/portfolio.
+El enlace de presentación dentro del CV apunta a ggcolinas.com/candidatura.html.
+
+1. Abre https://github.com/gigicolinas/portfolio y entra en la pestaña Code.
+2. En la raíz del repositorio, pulsa Add file > Upload files.
+3. Abre SUBIR_A_GITHUB en tu ordenador. Arrastra su CONTENIDO: index.html,
+   candidatura.html, los CSS/JS, favicon.svg, CNAME y la carpeta assets.
+   Los archivos deben quedar directamente en la raíz del repositorio.
+   No subas el ZIP ni la carpeta SUBIR_A_GITHUB como una carpeta nueva.
+4. Confirma la sustitución de archivos con el mensaje Actualizar candidatura
+   y publica el cambio en la misma rama que utiliza tu web actual.
+5. Conserva .github/workflows/pages.yml y la configuración del dominio.
+6. En Actions, espera a que el último despliegue de Pages termine correctamente.
+7. Comprueba la web en una ventana privada antes de enviar la candidatura.
+
+Portada de candidatura: https://ggcolinas.com/candidatura.html
+Presentación completa: https://ggcolinas.com/
+
+La publicación en GitHub no se ha realizado desde este paquete.
+No hay que comprar otro dominio ni modificar los registros de Namecheap.
